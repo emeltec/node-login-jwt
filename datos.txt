@@ -1,0 +1,4 @@
+USER=node_login_jwt
+PASSWORD=EnKitt0J18SbgiHzR
+DBNAME=login_jwt_db
+TOKEN_SECRET=super-secreto
